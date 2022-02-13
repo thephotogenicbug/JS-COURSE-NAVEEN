@@ -1,0 +1,70 @@
+1. Javascript Basics
+2. Javascript for web
+3. Javascript for mobile
+4. Javascript Frameworks
+          - ReactJS
+		  - VueJS
+		  - AngluarJS and so on
+		  
+
+ * what is javascript
+     
+      javascript is a programming language 
+
+      javascript was originally developed as livescript by netscape in 1990's
+      
+      javascript was created by Brendan Eich in 1995 during his time at netscape communications
+ 
+      javascript is client-side scripting language used for web applications at that time
+
+      Javascript is not JAVA
+
+
+     * with Javascript, we can build
+
+      websites
+      web app
+      mobile apps
+      desktop apps (electron Framework)
+      games
+      ai and machine learning
+
+     
+     * Why we should learn Javascript ?
+
+     1. Easier to start with
+     2. greate career opportunities
+     3. wide range of usages
+     4. big community support
+     5. it's the future 
+
+     * Reason of learning javascript ?
+
+     Javascript Frameworks
+     most Frameworks are written in javascript
+
+     1. ReactJS
+     2. VueJS
+     3. AngluarJS
+     4. ElectronJS and much more
+
+    * ECMASCRIPT VS JAVASCRIPT
+
+    ECMASCRIPT : Just a specification (set of rules)
+    JAVASCRIPT : Is a programming language
+
+    ECMASCRIPT Realeasing in 1997 (version 1) 2015 2016
+
+    Latest version is ES(2015) or (ES6) 
+
+    Javascript follows ECMASCRIPT rules
+
+    * Requirments
+     Latest Chrome browser / Mozilla browser
+     Text Editors
+        - Sublime text 
+        - Atom
+        - vsCode
+
+     install nodejs  	  
+	  	  
