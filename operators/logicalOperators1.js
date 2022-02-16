@@ -1,4 +1,5 @@
-// Logical operators
+// Logical operators  
+// * Build JS Loan Application to find if a person is eligible for loan / not
 // *highIncome, CIBILScore -> Loan Eligible, Ineligible
 
 
