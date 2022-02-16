@@ -38,5 +38,24 @@ let person = {
   }
 };
 
+let person2 = {
+  // key: value
+  name: "Kumar",
+  age: 25,
+  interest: ["Creating, teaching new things.."],
+  isAlive: true,
+  // nested Object
+  address: {
+    city: "Bangalore",
+    state: "Karnataka",
+  },
+
+  greeting: function () {
+    let msg = `My name is ${this.name}, i love ${this.interest}`;
+    console.log(msg);
+  },
+};
+
 person.greeting()
+person2.greeting()
 

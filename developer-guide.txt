@@ -68,3 +68,16 @@
 
      install nodejs  	  
 	  	  
+
+          Syllabus
+
+          Variables
+          Data-Types
+          Objects
+          Functions
+          Arrays
+          Operators
+          Conditional Statements
+          For Loop
+          While Loop
+          

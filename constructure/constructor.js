@@ -1,3 +1,4 @@
+// Factory Functions
 function createPerson(name) { // camelcase : myFirstName can be used in variable and function names
   return {
     name,
