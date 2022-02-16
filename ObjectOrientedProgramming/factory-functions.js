@@ -1,4 +1,4 @@
-//Factory functions
+//*Factory functions
 
 // function createPerson() {
 //      Object
@@ -17,9 +17,9 @@
 function createPerson(name) {
   // Object
   return {
-   // key: value
+    // key: value
     name: name,
-    greeting: function () {
+    greeting() {
       let msg = `My name is ${this.name}`;
       console.log(msg);
     },
@@ -27,4 +27,6 @@ function createPerson(name) {
 }
 
 let naveen = createPerson("Naveen");
-naveen.greeting()
+let kumar = createPerson("Kumar");
+naveen.greeting();
+kumar.greeting();
